@@ -1,0 +1,19 @@
+# Gradle / build output
+.gradle/
+build/
+run/
+out/
+bin/
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# generated
+version.json.bak
+*.log
+.DS_Store
